@@ -33,7 +33,7 @@
     "combat-training": "bash scripts/combat-training"
   },
   "engines": {
-    "node": ">=6.11.1 < 7",
+    "node": ">=6.11.1",
     "npm": ">3"
   },
   "repository": {
